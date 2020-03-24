@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    '7cabcc7c.ngrok.io',
+    '163e3236.ngrok.io',
     'localhost',
 ]
 
@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'prof_section',
+    'stu_section',
 ]
 
 MIDDLEWARE = [
